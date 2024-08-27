@@ -4,7 +4,6 @@
 
 - 🎓 Currently studying __Computer Science (Diploma)__ at __Universiti Teknologi MARA__.
 - 📚 Interested in __Web, Software, and Mobile Apps Development__.
-- 🌱 Learning __Laravel__.
 - Currently looking for an intenship placement to complete my diploma programme
 - Internship duration : 6 month (9 September 2024 - 21 February 2025)
 - Contact :
