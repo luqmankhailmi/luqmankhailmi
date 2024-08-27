@@ -5,6 +5,11 @@
 - 🎓 Currently studying __Computer Science (Diploma)__ at __Universiti Teknologi MARA__.
 - 📚 Interested in __Web, Software, and Mobile Apps Development__.
 - 🌱 Learning __Laravel__.
+- Currently looking for an intenship placement to complete my diploma programme
+- Intenship duration : 6 month (9 September 2024 - 21 February 2025)
+- Contact :
+- Email - luqmanhanisdaniel@gmail.com
+- Linkedin - Luqman Hanis Daniel
 
 ## 🛠️ Skills & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
