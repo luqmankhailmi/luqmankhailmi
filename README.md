@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Currently studying __Computer Science (Diploma)__ at __Universiti Teknologi MARA__.
-- 📚 Interested in __Web, Software, and Mobile Apps Development__.
+- 📚 Interested in __Data Analysis, Data Visualization, and Web Development__.
 - Currently interning at UiTM Global under the Division of Strategic Partnership (DSP)
 - Contact :
 - Email - luqmanhanisdaniel@gmail.com
