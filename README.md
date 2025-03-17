@@ -7,7 +7,8 @@
 - Currently waiting for degree offer
 - Contact :
 - Email - luqmanhanisdaniel@gmail.com
-- Linkedin - Luqman Hanis Daniel
+- Linkedin - [Luqman Hanis Daniel](https://www.linkedin.com/in/luqmanhanisdaniel/)
+- Youtube - https://www.youtube.com/@soulnimishere
 
 ## 🛠️ Skills & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
