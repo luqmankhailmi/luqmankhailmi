@@ -1,10 +1,10 @@
-# Hello, I'm Luqman Hanis Daniel Khailmi! 👋
+# Hi, I'm Luqman Hanis Daniel Khailmi! 👋
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying __Computer Science (Diploma)__ at __Universiti Teknologi MARA__.
+- 🎓 Recently completed my __Diploma in Computer Science__ at __Universiti Teknologi MARA__.
 - 📚 Interested in __Data Analysis, Data Visualization, and Web Development__.
-- Currently interning at UiTM Global under the Division of Strategic Partnership (DSP)
+- Currently waiting for degree offer
 - Contact :
 - Email - luqmanhanisdaniel@gmail.com
 - Linkedin - Luqman Hanis Daniel
