@@ -5,7 +5,7 @@
 - 🎓 Recently completed my __Diploma in Computer Science__ at __Universiti Teknologi MARA__.
 - 📚 Interested in __Data Analysis, Data Visualization, and Web Development__.
 - Currently waiting for degree offer
-- Contact :
+- Social :
 - Email - luqmanhanisdaniel@gmail.com
 - Linkedin - [Luqman Hanis Daniel](https://www.linkedin.com/in/luqmanhanisdaniel/)
 - Youtube - https://www.youtube.com/@soulnimishere
@@ -19,8 +19,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 <!-- Add more badges as per your skills -->
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/luqman-hanis-daniel-182169249)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:luqmanhanisdaniel@gmail.com)
-
----
