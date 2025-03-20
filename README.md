@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Recently completed my __Diploma in Computer Science__ at __Universiti Teknologi MARA__.
-- 📚 Interested in __Data Analysis, Data Visualization, and Web Development__.
+- 📚 Interested in __Data Analysis, Software Development, and Web Development__.
 - Currently waiting for degree offer
 - Social :
 - Email - luqmanhanisdaniel@gmail.com
