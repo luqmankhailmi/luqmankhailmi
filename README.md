@@ -4,7 +4,7 @@
 
 - 🎓 Recently completed my __Diploma in Computer Science__ at __Universiti Teknologi MARA__.
 - 📚 Interested in __Data Analysis, Software Development, and Web Development__.
-- Currently enrolled in the __Bachelor of Computer Science (Hons.) program at UiTM Shah Alam__.
+- Currently enrolled in the __Bachelor of Computer Science (Hons.) program at UiTM__.
 - Social :
 - Email - luqmanhanisdaniel@gmail.com
 - Linkedin - [Luqman Hanis Daniel](https://www.linkedin.com/in/luqmanhanisdaniel/)
