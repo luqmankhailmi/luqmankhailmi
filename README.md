@@ -18,4 +18,5 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 <!-- Add more badges as per your skills -->
-
+## Notes
+I'm sorry as I am not active right now as I recently pursuing my bachelor and I will try to find the time to build side project while focusing in academic and campus life. Thank you for visiting my profile.
