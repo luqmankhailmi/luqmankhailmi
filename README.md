@@ -1,4 +1,4 @@
-# Hi, I'm Luqman Hanis Daniel Khailmi! 👋
+# Hi, I'm Luqman Khailmi! 👋
 
 ## 🧑‍💻 About Me
 
